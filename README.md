@@ -17,7 +17,7 @@ Developed an interactive Business Intelligence dashboard using Power BI to:
 ## 📈 Interactive Dashboard
 *(The dashboard features dynamic slicing by Region, Segment, and Category to allow granular drill-downs into profit margins.)*
 
-![Sales Dashboard](./dashboards/dashboard.png)
+![Sales Dashboard](./SuperStore_Dashboard.png)
 
 ## 🧠 Key Business Insights
 1. **The Margin Trap:** While `Tables` and `Bookcases` generate substantial revenue, they operate at a severe loss (negative profit margins). Management should investigate supply chain costs or pricing strategies for these specific sub-categories.
