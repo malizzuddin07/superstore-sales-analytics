@@ -27,3 +27,5 @@ Developed an interactive Business Intelligence dashboard using Power BI to:
 ## 📂 Repository Structure
 * `/sql` - SQL scripts demonstrating data aggregation and exploratory analysis (EDA) used to validate dashboard numbers.
 * `/dashboards` - Dashboard screenshots and layout files.
+* '/.csv' - Dataset used.
+* '/.pbix' - Dashboard in Power BI file format.
